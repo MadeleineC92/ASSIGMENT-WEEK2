@@ -30,5 +30,5 @@ ws.Cells(i, 9).Value = ticker
 After making these adjustments, your code should work more effectively for calculating the yearly change, percentage change, and total stock volume for each stock ticker.
 
 recivied help from askbcs learning assistant for interior colour and selescting worksheets
-
+recivied help from Tutour simion (Sunday 8.01.2024)
 
